@@ -1,0 +1,349 @@
+xid;addr;pocet_her;ulice;cp_co;cas;zrusena;Latitude;Longitude;Quality
+200;Na Florenci 1412;;Na Florenci;1412/29;bez omezení;ne;50.089739;14.437147;Rooftop
+201;Na poříčí 1052;;Na poříčí;1052/42;bez omezení;ne;50.090086;14.436036;Rooftop
+202;Freyova 945;;Freyova;945/33;bez omezení;ne;50.110292;14.501595;Rooftop
+203;Masarykovo nádraží;;Masarykovo nádraží;;bez omezení;ne;50.087729;14.433346;Approximate
+0;5. května 1640;151;;;;ano;50.062152;14.428607;Rooftop
+1;Kotorská 1598;133;;;;ano;50.053701;14.436903;Rooftop
+2;Revoluční 655;119;Revoluční ;655/1;bez omezení;ne;50.08889;14.426636;Rooftop
+3;Mukařovského 2590;116;Mukařovského;2590/2;bez omezení;ne;50.045422;14.322901;Rooftop
+4;Václavské náměstí 822;106;Václavské náměstí;822/35;bez omezení;ne;50.081771;14.427702;Rooftop
+5;Archeologická 2256;104;Archeologická;2256/1;bez omezení;ne;50.044064;14.331559;Rooftop
+6;Vodičkova 699;96;Vodičkova;699/30;bez omezení;ne;50.080974;14.424574;Rooftop
+7;Chlumecká 765;95;Chlumecká;765/6;bez omezení;ne;50.108649;14.586623;Rooftop
+8;V celnici 1028;93;V celnici;1028/10;bez omezení;ne;50.088204;14.431244;Rooftop
+9;náměstí Republiky 1078;92;náměstí Republiky ;1078/1;bez omezení;ne;50.089186;14.428722;Rooftop
+10;Kongresová 1655;89;;;;ano;50.062788;14.432054;Rooftop
+11;Vodičkova 791;86;Vodičkova;791/39- 41;bez omezení;ne;50.081775;14.425234;Rooftop
+12;Pobřežní 311;86;Pobřežní;311/1;bez omezení;ne;50.093572;14.446407;Geometric centre
+13;Jílovská 452;84;;;;ano;50.024272;14.433558;Rooftop
+14;Na příkopě 959;70;Na příkopě;959/27;bez omezení;ne;50.086315;14.426407;Rooftop
+15;Ostrovského 464;69;;;;ano;50.069494;14.40482;Rooftop
+16;Mukařovského 1985;68;Mukařovského;1985/5;bez omezení;ne;50.044686;14.321761;Rooftop
+17;Štefánikova 218;66;;;;ano;50.07244;14.40373;Rooftop
+18;Prusíkova 2577;64;Prusíkova;2577/16;bez omezení;ne;50.038046;14.338491;Rooftop
+19;Na příkopě 391;63;Na příkopě ;391/7;bez omezení;ne;50.084796;14.424052;Rooftop
+20;Švehlova 1391;61;Švehlova;1391/32;bez omezení;ne;50.053281;14.517188;Rooftop
+21;Ostrovského 253;60;;;;ano;50.068628;14.402766;Rooftop
+22;náměstí Jiřího z Poděbrad 853;59;náměstí Jiřího z Poděbrad;853/16;bez omezení;ne;50.078163;14.452144;Rooftop
+23;Štefánikova 230;57;;;;ano;50.072701;14.403525;Rooftop
+24;Brandlova 1599;57;;;;ano;50.032697;14.518326;Rooftop
+25;Novodvorská 1800;56;;;;ano;50.026764;14.432912;Rooftop
+26;Na příkopě 852;56;Na příkopě;852/10;bez omezení;ne;50.085002;14.424856;Rooftop
+27;Lidická 312;55;;;;ano;50.072062;14.406214;Rooftop
+28;Roztylská 2321;54;;;;ano;50.032069;14.490996;Rooftop
+29;Petržílkova 2583;54;Petržílkova;2583/15;bez omezení;ne;50.050846;14.345131;Rooftop
+30;Národní 984;53;Národní;984/15;bez omezení;ne;50.081946;14.416702;Rooftop
+31;Českomoravská 2420;50;Českomoravská;2420/15a;bez omezení;ne;50.103824;14.49125;Rooftop
+32;U Obecního domu 660;49;U Obecního domu;660/3;bez omezení;ne;50.088317;14.428104;Rooftop
+33;Václavské náměstí 818;48;Václavské náměstí;818/45;bez omezení;ne;50.0812;14.428557;Rooftop
+34;Olštýnská 607;48;Olštýnská;607/1;bez omezení;ne;50.127664;14.419898;Rooftop
+35;Řevnická 121;48;Řevnická;121/1;10.00-24.00;ne;50.055758;14.288269;Range interpolated
+36;Topolová 2915;47;Topolová;2915/16;10.00-22.00;ne;50.056434;14.506945;Geometric centre
+37;Jabloňová 3000;47;Jabloňová;3000/15;10.00-22.00;ne;50.056862;14.497615;Rooftop
+38;Bubenské nábřeží 306;47;;;;ano;50.098445;14.445274;Rooftop
+39;Husitská 109;46;Husitská;109/66;bez omezení;ne;50.08665;14.449463;Rooftop
+40;Hráského 2231;45;Hráského;2231/25;bez omezení;ne;50.028855;14.490767;Rooftop
+41;Koněvova 1956;45;Koněvova;1956/214;bez omezení;ne;50.092271;14.489232;Rooftop
+42;Štúrova 1308;45;;;;ano;50.02129;14.451794;Rooftop
+43;Štefánikova 339;43;;;;ano;50.075951;14.403797;Rooftop
+44;Arkalycká 877;41;Arkalycká;877/4;bez omezení;ne;50.031559;14.528583;Rooftop
+45;Štúrova 1418;41;;;;ano;50.020526;14.452788;Rooftop
+46;Milady Horákové 534;40;;;;ano;50.099857;14.425625;Rooftop
+47;parc. č. 2534/1, k. ú. Nové Město nan;39;;;;ano;50.075538;14.4378;Approximate
+48;Opatovská 874;39;Opatovská;874/25;bez omezení;ne;50.031168;14.530455;Rooftop
+49;Prokopova 150;39;Prokopova;150/19;bez omezení;ne;50.086961;14.451255;Rooftop
+50;Na Pankráci 1600;38;;;;ano;50.05282;14.43812;Rooftop
+51;Václavské náměstí 808;38;Václavské náměstí;808/66;bez omezení;ne;50.079327;14.42959;Rooftop
+52;Chlumecká 712;38;;;;ano;50.106128;14.586448;Rooftop
+53;Náchodská 762;37;;;;ano;50.113652;14.601471;Rooftop
+54;Václavské náměstí 799;36;;;;ano;50.080782;14.427749;Rooftop
+55;Laudova 1000;35;Laudova;1000/28;bez omezení;ne;50.06869;14.313216;Rooftop
+56;Jabloňová 2136;34;Jabloňová;2136/11;10.00-22.00;ne;50.057088;14.495969;Rooftop
+57;Rýmařovská 561;32;Rýmařovská;561;bez omezení ;ne;50.135849;14.510397;Rooftop
+58;Veltruská 557;32;Veltruská;557/27;bez omezení;ne;50.121903;14.493035;Rooftop
+59;Václavské náměstí 840;32;Václavské náměstí;840/5;bez omezení;ne;50.084017;14.425154;Rooftop
+60;Hábova 1517;32;Hábova;1517/5;bez omezení;ne;50.046618;14.310052;Rooftop
+61;Trnkovo náměstí 1112;31;;;;ano;50.030837;14.368425;Rooftop
+62;Klapkova 41;30;Klapkova ;41/3;bez omezení;ne;50.126698;14.456627;Rooftop
+63;Václavské náměstí 772;29;;;;ano;50.083847;14.423526;Rooftop
+64;Revoluční 1081;29;Revoluční;1081/4;bez omezení;ne;50.089845;14.428264;Rooftop
+65;plukovníka Mráze 1182;29;;;;ano;50.050315;14.543992;Rooftop
+66;Donovalská 1725;29;;;;ano;50.035687;14.500028;Rooftop
+67;Plzeňská 163;29;;;;ano;50.06979;14.37368;Rooftop
+68;Burešova 1665;28;Burešova ;1665/5;bez omezení;ne;50.127797;14.469242;Rooftop
+69;Milánská 311;28;Milánská;311;bez omezení;ne;50.045537;14.558196;Rooftop
+70;Nad Primaskou 526;28;Nad Primaskou;526/35;10.00-22.00;ne;50.074976;14.490746;Rooftop
+71;Kpt. Stránského 998;28;;;;ano;50.102878;14.577812;Rooftop
+72;Komunardů 1126;27;;;;ano;50.103972;14.449757;Rooftop
+73;Suchý vršek 2122;27;;;;ano;50.047108;14.344406;Rooftop
+74;Hlavní 2459;27;;;;ano;50.046764;14.487146;Rooftop
+75;Na Chodovci 2880;27;;;;ano;50.048441;14.491822;Rooftop
+76;Blažimská 1781;27;Blažimská;1781/4;bez omezení;ne;50.041911;14.497997;Rooftop
+77;Teplická 492;27;Teplická;492/19;bez omezení;ne;50.126776;14.485912;Rooftop
+78;Náměstí bratří Synků 340;26;;;;ano;50.064826;14.44082;Rooftop
+79;Plzeňská 1125;26;;;;ano;50.07067;14.376494;Rooftop
+80;Komunardů 1046;26;;;;ano;50.102763;14.449688;Rooftop
+81;Střelničná 1660;26;Střelničná;1660/31;bez omezení;ne;50.126641;14.471164;Geometric centre
+82;Třinecká 673;25;Třinecká;673;bez omezení;ne;50.135463;14.51055;Rooftop
+83;Milevská 1695;25;;;;ano;50.049199;14.438197;Rooftop
+84;Nuselská 1420;25;;;;ano;50.060866;14.448693;Rooftop
+85;Antala Staška 327;25;;;;ano;50.040167;14.436045;Rooftop
+86;Arbesovo náměstí 742;24;;;;ano;50.076626;14.405718;Rooftop
+87;Štúrova 1978;24;;;;ano;50.022178;14.451844;Rooftop
+88;Švehlova 1435;24;Švehlova;1435/25;bez omezení;ne;50.053389;14.523551;Rooftop
+89;Nevanova 1050;24;;;;ano;50.065082;14.316002;Rooftop
+90;Klapkova 1851;24;;;;ano;50.12359;14.45573;Rooftop
+91;Vršovická 787;24;Vršovická;787/89;10.00-22.00;ne;50.070549;14.474544;Rooftop
+92;Mochovská 477;23;Mochovská;477;bez omezení;ne;50.107137;14.536918;Geometric centre
+93;Jablonecká 423;23;Jablonecká;423/70;bez omezení;ne;50.125428;14.493807;Rooftop
+94;Nekázanka 877;23;Nekázanka ;877/17;bez omezení;ne;50.084812;14.428703;Rooftop
+95;SKLONĚNÁ 551;23;;;;ano;50.100108;14.4878;Rooftop
+96;Makovského 1179;23;Makovského;1179/2;bez omezení;ne;50.065249;14.307769;Rooftop
+97;Nuselská 171;23;;;;ano;50.063337;14.443411;Rooftop
+98;Na Pankráci 1010;23;;;;ano;50.05919;14.431019;Rooftop
+99;Sokolovská 69;22;Sokolovská;69/14;bez omezení;ne;50.093406;14.448497;Range interpolated
+100;Ke Štvanici 379;22;Ke Štvanici;379/6;bez omezení;ne;50.09174;14.438467;Rooftop
+101;Nádražní 31;22;;;;ano;50.069935;14.405103;Rooftop
+102;Nádražní 50;22;;;;ano;50.063177;14.409384;Rooftop
+103;Thámova 21;22;Thámova;21/34;bez omezení;ne;50.094316;14.451507;Rooftop
+104;Koněvova 1686;22;Koněvova;1686/112;bez omezení;ne;50.090046;14.46751;Rooftop
+105;Argentinská 702;22;;;;ano;50.098714;14.442936;Rooftop
+106;Brandlova 1640;22;;;;ano;50.032303;14.514482;Rooftop
+107;Kamenická 552;22;;;;ano;50.09958;14.427416;Rooftop
+108;náměstí Bratří Synků 300;22;;;;ano;50.064652;14.440036;Rooftop
+109;Lodžská 401;22;Lodžská;401/13;bez omezení;ne;50.131238;14.423409;Rooftop
+110;V Olšinách 1017;21;V Olšinách;1017/33;10.00-22.00;ne;50.071401;14.484761;Rooftop
+111;Vojtíškova 1783;21;;;;ano;50.025459;14.492636;Rooftop
+112;Sokolovská 111;21;Sokolovská;111/36;bez omezení;ne;50.094832;14.454474;Rooftop
+113;Sokolovská 615;21;Sokolovská;615/138;bez omezení;ne;50.098467;14.468327;Rooftop
+114;Vršovická 7;21;Vršovická;7/27;10.00-22.00;ne;50.06615;14.451757;Rooftop
+115;Drahobejlova 1598;21;Drahobejlova;1598/39;bez omezení;ne;50.106187;14.490657;Rooftop
+116;Nuselská 204;21;;;;ano;50.062057;14.445102;Rooftop
+117;Perlová 412;21;Perlová ;412/1;bez omezení;ne;50.083684;14.421177;Rooftop
+118;Malešovská 1652;21;Malešovská ;1652;bez omezení;ne;50.07229;14.680443;Rooftop
+119;Plukovníka Mráze 1182;21;Plukovníka Mráze;1182/24;bez omezení;ne;50.050315;14.543992;Rooftop
+120;Valentova 1726;21;Valentova;1726/6;bez omezení;ne;50.032953;14.506985;Rooftop
+121;Nuselská 205;21;;;;ano;50.062014;14.445644;Rooftop
+122;Arkalycká 757;21;Arkalycká;757/6;bez omezení;ne;50.031692;14.529204;Rooftop
+123;Varnsdorfská 340;20;;;;ano;50.126567;14.495694;Geometric centre
+124;Na Perštýně 358;20;Na Perštýně;358/8;bez omezení;ne;50.083236;14.419037;Rooftop
+125;Křižíkova 254;20;Křižíkova;254/5;bez omezení;ne;50.090262;14.440087;Rooftop
+126;parc. č. 3278/3, k. ú. Libeň nan;20;;;;ano;50.075538;14.4378;Approximate
+127;Krynická 488;20;Krynická ;488/31;bez omezení;ne;50.126707;14.412882;Rooftop
+128;Nádražní 47;20;;;;ano;50.069146;14.406201;Rooftop
+129;Heydukova 897;20;Heydukova;897/13;bez omezení;ne;50.10374;14.474922;Rooftop
+130;Mukařovského 1986;20;Mukařovského;1986/7;bez omezení;ne;50.045082;14.321112;Rooftop
+131;Mochovská 478;19;Mochovská;478/40;bez omezení;ne;50.107015;14.538077;Rooftop
+132;Krejčího 287;19;;;;ano;50.113849;14.470953;Rooftop
+133;Žitomírská 347;19;Žitomírská;347/17;10.00-22.00;ne;50.069381;14.455996;Rooftop
+134;Veronské nám. 403;19;Veronské nám.;403;bez omezení;ne;50.040592;14.558865;Rooftop
+135;Sokolovská 541;19;Sokolovská;541/198;bez omezení;ne;50.110054;14.49846;Range interpolated
+136;Ludmilina 1687;19;Ludmilina;1687/3;bez omezení;ne;50.104414;14.473935;Rooftop
+137;Sokolovská 904;19;Sokolovská;904/244;bez omezení;ne;50.105922;14.486676;Rooftop
+138;Moskevská 617;19;Moskevská;617/58;10.00-22.00;ne;50.068359;14.457462;Rooftop
+139;Opatovská 1753;19;Opatovská;1753/12;bez omezení;ne;50.025186;14.517082;Rooftop
+140;Komunardů 1365;19;;;;ano;50.101356;14.449716;Rooftop
+141;Štúrova 1417;18;;;;ano;50.020283;14.453171;Rooftop
+142;Otakarova 240;18;;;;ano;50.066227;14.440973;Rooftop
+143;Křejpského 1530;18;Křejpského;1530/4;bez omezení;ne;50.026045;14.515656;Rooftop
+144;Dukelských Hrdinů 974;18;;;;ano;50.099535;14.433463;Rooftop
+145;Chabařovická 1796;18;Chabařovická;1796/13a;bez omezení;ne;50.130137;14.47573;Rooftop
+146;Karlická 3;18;;;;ano;49.982683;14.35686;Range interpolated
+147;Cíglerova 1139;17;;;;ano;50.105575;14.558479;Rooftop
+148;Vršovická 1489;17;Vršovická;1489/31;10.00-22.00;ne;50.066653;14.453711;Rooftop
+149;Bryksova 779;17;;;;ano;50.107696;14.577376;Rooftop
+150;Hlavatého 664;17;Hlavatého;664/13;bez omezení;ne;50.030278;14.534596;Rooftop
+151;Breitcetlova 771;17;;;;ano;50.105556;14.574514;Rooftop
+152;Štúrova 1701;16;;;;ano;50.029748;14.449711;Rooftop
+153;Křižíkova 345;16;;;;ano;50.089828;14.440114;Rooftop
+154;Milady Horákové 526;16;;;;ano;50.099786;14.423312;Rooftop
+155;Brandlova 1639;16;;;;ano;50.032632;14.51543;Rooftop
+156;Štúrova 1284;16;;;;ano;50.026333;14.451766;Rooftop
+157;Dukelských hrdinů 903;16;;;;ano;50.102448;14.433039;Rooftop
+158;Milady Horákové 141;16;;;;ano;50.100035;14.422006;Rooftop
+159;Horolezecká 868;16;;;;ano;50.051851;14.542367;Rooftop
+160;Křižíkova 55;15;Křižíkova;55/65;bez omezení;ne;50.092291;14.449299;Rooftop
+161;Náchodská 2353;15;;;;ano;50.115831;14.616376;Rooftop
+162;Pujmanové 1220;15;;;;ano;50.046986;14.434792;Rooftop
+163;Zhořelecká 514;15;Zhořelecká;514/2;bez omezení;ne;50.13139;14.409934;Rooftop
+164;Poděbradská 777;15;;;;ano;50.102858;14.51124;Rooftop
+165;Vysočanské náměstí 214;15;Vysočanské náměstí;214/1;bez omezení;ne;50.100754;14.490062;Rooftop
+166;Koněvova 2153;15;;;;ano;50.092352;14.492989;Rooftop
+167;Nádražní 279;15;;;;ano;50.06066;14.40869;Rooftop
+168;Průběžná 387;15;Průběžná;387/41;10.00-22.00;ne;50.068518;14.492691;Rooftop
+169;Vršovická 839;15;;;;ano;50.066337;14.456342;Rooftop
+170;Komunardů 442;14;;;;ano;50.102498;14.450296;Rooftop
+171;Sokolovská 85;14;;;;ano;50.094066;14.450939;Rooftop
+172;Náchodská 694;14;;;;ano;50.114764;14.610144;Rooftop
+173;Kodaňská 81;14;;;;ano;50.071089;14.451269;Rooftop
+174;Hábova 2345;14;;;;ano;50.046682;14.310769;Rooftop
+175;Jablonecká 725;14;Jablonecká;725/2;bez omezení;ne;50.120703;14.501503;Rooftop
+176;Lovosická 778;14;;;;ano;50.123932;14.50547;Rooftop
+177;K Ládví 344;14;K Ládví;344/4;bez omezení;ne;50.135862;14.431554;Rooftop
+178;Seifertova 465;14;;;;ano;50.085467;14.441349;Rooftop
+179;Počernická 473;13;;;;ano;50.083361;14.506956;Rooftop
+180;Sokolovská 325;13;;;;ano;50.09899;14.468619;Rooftop
+181;Nedašovská 346;13;;;;ano;50.059862;14.291814;Rooftop
+182;Drahobejlova 957;13;;;;ano;50.106699;14.492269;Rooftop
+183;Arkalycká 758;13;;;;ano;50.031262;14.528653;Rooftop
+184;Sokolovská 4;13;;;;ano;50.092521;14.443631;Rooftop
+185;Čimická 442;13;;;;ano;50.125233;14.444803;Rooftop
+186;Zázvorkova 25;13;;;;ano;50.045164;14.33188;Rooftop
+187;U Slavie 1540;12;U Slavie;1540/2a;10.00-22.00;ne;50.068071;14.47096;Rooftop
+188;Francouzská 400;12;;;;ano;50.071852;14.450251;Rooftop
+189;Milady Horákové 685;12;;;;ano;50.099433;14.431205;Rooftop
+190;Žitomírská 302;12;;;;ano;50.071465;14.458603;Rooftop
+191;Zdiměřická (Ke Kateřinkám) 1411;11;;;;ano;50.022689;14.515563;Rooftop
+192;Rumburská 572;11;;;;ano;50.12572;14.488108;Rooftop
+193;Libušská 319;11;;;;ano;50.001632;14.467273;Rooftop
+194;Sokolská 486;11;;;;ano;50.075226;14.428764;Rooftop
+195;Božanovská 2085;11;;;;ano;50.110621;14.599741;Rooftop
+196;Milady Horákové 600;11;;;;ano;50.099915;14.427916;Rooftop
+197;V Olšinách 795;11;;;;ano;50.071295;14.482054;Rooftop
+198;Braunerova 514;10;;;;ano;50.11212;14.475072;Rooftop
+199;Milady Horákové 384;10;;;;ano;50.099778;14.422334;Rooftop
+200;Doupovská 1043;10;;;;ano;50.047453;14.518834;Rooftop
+201;Turnovského 263;10;Turnovského;263/4;10.00-22.00;ne;50.076512;14.50036;Rooftop
+202;Mendelova 554;10;;;;ano;50.033097;14.532493;Rooftop
+203;Klapkova 40;10;;;;ano;50.126242;14.457352;Rooftop
+204;Hornoměcholupská 497;10;;;;ano;50.046383;14.566388;Rooftop
+205;Za Návsí 1918;10;;;;ano;50.055148;14.489819;Rooftop
+206;Pod Pekárnami 161;10;;;;ano;50.111904;14.503396;Rooftop
+207;Milady Horákové 492;10;;;;ano;50.09989;14.424962;Rooftop
+208;Vašátkova 1020;10;;;;ano;50.102364;14.56903;Geometric centre
+209;Tanvaldská 1348;9;;;;ano;50.128815;14.476698;Rooftop
+210;Novodvorská 1128;9;;;;ano;50.026289;14.430511;Rooftop
+211;U Jezerky 1165;9;;;;ano;50.056809;14.444988;Rooftop
+212;Metodějova 1463;9;;;;ano;50.028305;14.520156;Rooftop
+213;Mezivrší 213;9;;;;ano;50.036762;14.412884;Rooftop
+214;DĚLNICKÁ 1272;9;;;;ano;50.103388;14.452196;Rooftop
+215;Dukelských hrdinů 770;9;;;;ano;50.103987;14.431357;Rooftop
+216;Frýdlantská 1351;9;;;;ano;50.132645;14.478146;Rooftop
+217;Zenklova 131;9;;;;ano;50.12016;14.458729;Rooftop
+218;Křejpského 1752;9;;;;ano;50.025627;14.5151;Rooftop
+219;Kodaňská 1004;9;;;;ano;50.070586;14.461661;Rooftop
+220;Budějovická 1523;8;;;;ano;50.047031;14.446518;Rooftop
+221;Ořešská 797;8;;;;ano;50.031887;14.309724;Rooftop
+222;Na Sádce 659;8;;;;ano;50.032445;14.50142;Rooftop
+223;Sofijské náměstí 3404;8;;;;ano;50.006522;14.416836;Rooftop
+224;Sokolovská 416;8;;;;ano;50.095038;14.456752;Rooftop
+225;Tiskařská 257;8;;;;ano;50.082019;14.53335;Rooftop
+226;Novovysočanská 556;8;;;;ano;50.100285;14.4891;Rooftop
+227;Turnovská 430;8;;;;ano;50.103177;14.479148;Rooftop
+228;Ke Kateřinkám 1411;8;;;;ano;50.022689;14.515563;Rooftop
+229;Francouzská 966;8;;;;ano;50.072813;14.442852;Rooftop
+230;Poděbradská 225;7;;;;ano;50.1018;14.504484;Rooftop
+231;Pod Altánem 9;7;;;;ano;50.06981;14.489272;Rooftop
+232;Zenklova 164;7;;;;ano;50.10947;14.47253;Rooftop
+233;Veletržní 828;7;;;;ano;50.10078;14.426421;Rooftop
+234;Zdiměřická 1411;7;;;;ano;50.02272;14.513218;Geometric centre
+235;Milánská 235;7;;;;ano;50.044004;14.557391;Rooftop
+236;Na Dědince 931;6;;;;ano;50.115085;14.472366;Rooftop
+237;Schnirchova 1257;6;;;;ano;50.101274;14.435546;Rooftop
+238;Vyšehradská 413;6;;;;ano;50.068197;14.416989;Rooftop
+239;Krhanická 365;6;;;;ano;50.017341;14.442597;Rooftop
+240;Českomoravská 1308;6;;;;ano;50.104023;14.48567;Rooftop
+241;Hvězdova 1281;6;;;;ano;50.05237;14.439703;Rooftop
+242;GUTOVA 1240;6;;;;ano;50.070207;14.488272;Rooftop
+243;Sokolovská 146;6;;;;ano;50.099184;14.469378;Rooftop
+244;Hornoměcholupská 528;5;;;;ano;50.052359;14.532255;Rooftop
+245;Dělnická 541;5;;;;ano;50.103347;14.445866;Rooftop
+246;Jablonecká 459;5;;;;ano;50.124919;14.494926;Rooftop
+247;Libušská 46;5;;;;ano;49.990516;14.469593;Rooftop
+248;Švehlova 3125;5;;;;ano;50.06039;14.505775;Rooftop
+249;Sokolovská 282;5;;;;ano;50.106155;14.487566;Rooftop
+250;Na Rozcestí 1161;5;;;;ano;50.104234;14.484868;Rooftop
+251;Slévačská 744;5;;;;ano;50.107322;14.544031;Rooftop
+252;Malkovského 608;5;;;;ano;50.139907;14.50551;Rooftop
+253;Makovského 1177;4;;;;ano;50.063167;14.310465;Rooftop
+254;Vinohradská 1233;4;;;;ano;50.077969;14.4613;Range interpolated
+255;Jesenická 1410;4;;;;ano;50.057656;14.493275;Rooftop
+256;Ječná 509;4;;;;ano;50.075407;14.423206;Rooftop
+257;Poděbradská 433;4;;;;ano;50.104679;14.526997;Rooftop
+258;Ve Žlíbku 221;4;;;;ano;50.115447;14.625846;Rooftop
+259;Kokořínská 95;4;;;;ano;50.145743;14.485489;Rooftop
+260;Kutnohorská 69;4;;;;ano;50.055048;14.563493;Range interpolated
+261;KOMUNARDŮ 883;4;;;;ano;50.103101;14.450169;Rooftop
+262;Vítězné náměstí 829;4;;;;ano;50.101099;14.396956;Rooftop
+263;Šimůnkova 1625;4;;;;ano;50.133033;14.47027;Rooftop
+264;Křižíkova 255;4;;;;ano;50.090317;14.440338;Rooftop
+265;Mladoboleslavská 844;3;;;;ano;50.131252;14.553416;Rooftop
+266;Karlovo náměstí 555;3;;;;ano;50.076579;14.421188;Rooftop
+267;Karlovarská 64;3;;;;ano;50.076893;14.295218;Range interpolated
+268;Vinořská 310;3;;;;ano;50.12612;14.572136;Rooftop
+269;Křivoklátská 302;3;;;;ano;50.13833;14.51292;Rooftop
+270;Francouzská 771;3;;;;ano;50.073379;14.441436;Rooftop
+271;Kutnohorská 225;3;;;;ano;50.051434;14.567206;Rooftop
+272;Králodvorská 1085;3;;;;ano;50.088471;14.427496;Rooftop
+273;Klapkova 92;3;Klapkova;92/41;bez omezení;ne;50.126698;14.456627;Rooftop
+274;Muzeum - M nan;3;;;;ano;50.075538;14.4378;Approximate
+275;Evropská 695;3;;;;ano;50.100146;14.388309;Range interpolated
+276;Seifertova 826;3;;;;ano;50.083987;14.453102;Rooftop
+277;Bělehradská 630;3;;;;ano;50.074451;14.432936;Rooftop
+278;Ortenovo náměstí 443;3;;;;ano;50.108883;14.447199;Rooftop
+279;Novosibřinská 879;3;;;;ano;50.073562;14.677436;Rooftop
+280;Thámova 221;3;;;;ano;50.09144;14.452656;Rooftop
+281;Podolská 113;3;;;;ano;50.058714;14.421396;Rooftop
+282;náměstí Bratří Synků 612;2;;;;ano;50.063936;14.440471;Rooftop
+283;V Korytech 1773;2;;;;ano;50.054197;14.490037;Rooftop
+284;Aviatická 1092;2;;;;ano;50.106561;14.269655;Rooftop
+285;Komunardů 883;2;;;;ano;50.103101;14.450169;Rooftop
+286;Ibsenova 1234;2;;;;ano;50.076268;14.436542;Rooftop
+287;Vinohradská 1210;2;;;;ano;50.077969;14.461301;Range interpolated
+288;Bínova 531;2;;;;ano;50.130298;14.48155;Rooftop
+289;Karlická 33;2;;;;ano;49.977633;14.351505;Rooftop
+290;Kutnohorská 34;2;;;;ano;50.058068;14.560072;Rooftop
+291;Kodaňská 485;2;Kodaňská;485/63;10.00-22.00;ne;50.07081;14.460141;Rooftop
+292;Mrštíkova 2450;2;;;;ano;50.072753;14.485571;Rooftop
+293;Na příkopě 392;2;;;;ano;50.084885;14.424157;Rooftop
+294;Cukrovarská 90;2;;;;ano;50.151184;14.515759;Rooftop
+295;Karlovo náměstí 292;2;;;;ano;50.076572;14.419029;Rooftop
+296;Kudrnova 234;2;;;;ano;50.071369;14.347413;Rooftop
+297;Galandova 1656;2;;;;ano;50.068969;14.297591;Rooftop
+298;Dukelských hrdinů 769;2;;;;ano;50.101469;14.433341;Rooftop
+299;Makovského 1342;2;;;;ano;50.066005;14.303959;Rooftop
+300;Havelská 508;2;;;;ano;50.085036;14.420514;Rooftop
+301;Ostrovského 411;2;;;;ano;50.068839;14.400944;Rooftop
+302;Nekázanka 883;2;;;;ano;50.085168;14.427618;Rooftop
+303;Radimova 65;2;;;;ano;50.087402;14.367526;Rooftop
+304;Na Bělidle 298;1;;;;ano;50.071527;14.405437;Rooftop
+305;Zdislavická 963;1;;;;ano;50.017683;14.445193;Geometric centre
+306;Čs. Armády 872;1;;;;ano;50.100482;14.397443;Rooftop
+307;Harrachovská 340;1;Harrachovská;340/1;bez omezení;ne;50.125219;14.494743;Rooftop
+308;Patočkova 1633;1;;;;ano;50.086234;14.370994;Rooftop
+309;Modletická 1390;1;;;;ano;50.024827;14.516498;Rooftop
+310;Čumpelíkova 1222;1;;;;ano;50.128302;14.460446;Rooftop
+311;Travná 1217;1;;;;ano;50.087521;14.55448;Rooftop
+312;Košická 368;1;;;;ano;50.070543;14.451331;Rooftop
+313;Husitská 107;1;;;;ano;50.087251;14.444258;Rooftop
+314;Radlická 902;1;;;;ano;50.061447;14.400694;Rooftop
+315;Bělohorská 197;1;;;;ano;50.08407;14.36472;Rooftop
+316;Hostivařská 576;1;;;;ano;50.052322;14.529221;Geometric centre
+317;Tiskařská 599;1;;;;ano;50.080832;14.534767;Rooftop
+318;Žitavského 495;1;;;;ano;49.974148;14.395389;Rooftop
+319;Nad Šestikopy 322;1;;;;ano;50.117489;14.495477;Rooftop
+320;Bohnická 320;1;;;;ano;50.133093;14.415442;Rooftop
+321;náměstí Winstona Churchilla 1800;1;;;;ano;50.084539;14.442594;Rooftop
+322;Moulíkova 2240;1;;;;ano;50.060141;14.410701;Range interpolated
+323;Karmelitská 267;1;;;;ano;50.087495;14.403647;Rooftop
+324;Verneřická 559;1;;;;ano;50.123683;14.497158;Rooftop
+325;Bubenská 106;1;;;;ano;50.106137;14.435241;Rooftop
+326;Černý Most - M nan;1;;;;ano;50.075538;14.4378;Approximate
+327;Jugoslávská 481;1;;;;ano;50.075304;14.433039;Rooftop
+328;Václavské náměstí 802;1;;;;ano;50.080279;14.428436;Rooftop
+329;Vinohradská 120;1;;;;ano;50.077526;14.458188;Rooftop
+330;Lípová 512;1;;;;ano;50.075423;14.424227;Rooftop
+331;náměstí Protifašistických bojovníků 143;1;;;;ano;50.029537;14.600543;Rooftop
+332;Matěchova 409;1;;;;ano;50.041647;14.438939;Rooftop
+333;Krymská 126;1;;;;ano;50.071571;14.447175;Rooftop
+334;Božanovská 2098;1;;;;ano;50.110151;14.59912;Rooftop
+335;Kosmická 537;1;;;;ano;50.032468;14.530287;Rooftop
+336;Křižíkova 212;1;;;;ano;50.091655;14.446439;Rooftop
+337;Kubánské náměstí 1269;1;;;;ano;50.071814;14.478865;Rooftop
+338;Bělohorská 1395;1;;;;ano;50.084947;14.377108;Rooftop
+339;Jičínská 2348;1;;;;ano;50.077584;14.461208;Rooftop
+340;Wilsonova 300;1;;;;ano;50.083239;14.435021;Rooftop
+341;Horní 1474;1;;;;ano;50.059965;14.446985;Rooftop
+342;Přátelství 372;1;;;;ano;50.033594;14.596211;Rooftop
+343;Černická 961;1;;;;ano;50.077863;14.506147;Rooftop
