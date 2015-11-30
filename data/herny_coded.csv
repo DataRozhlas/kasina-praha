@@ -50,7 +50,6 @@ xid;addr;pocet_her;ulice;cp_co;cas;zrusena;Latitude;Longitude;Quality
 44;Arkalycká 877;41;Arkalycká;877/4;bez omezení;ne;50.031559;14.528583;Rooftop
 45;Štúrova 1418;41;;;;ano;50.020526;14.452788;Rooftop
 46;Milady Horákové 534;40;;;;ano;50.099857;14.425625;Rooftop
-47;parc. č. 2534/1, k. ú. Nové Město nan;39;;;;ano;50.075538;14.4378;Approximate
 48;Opatovská 874;39;Opatovská;874/25;bez omezení;ne;50.031168;14.530455;Rooftop
 49;Prokopova 150;39;Prokopova;150/19;bez omezení;ne;50.086961;14.451255;Rooftop
 50;Na Pankráci 1600;38;;;;ano;50.05282;14.43812;Rooftop
@@ -129,7 +128,6 @@ xid;addr;pocet_her;ulice;cp_co;cas;zrusena;Latitude;Longitude;Quality
 123;Varnsdorfská 340;20;;;;ano;50.126567;14.495694;Geometric centre
 124;Na Perštýně 358;20;Na Perštýně;358/8;bez omezení;ne;50.083236;14.419037;Rooftop
 125;Křižíkova 254;20;Křižíkova;254/5;bez omezení;ne;50.090262;14.440087;Rooftop
-126;parc. č. 3278/3, k. ú. Libeň nan;20;;;;ano;50.075538;14.4378;Approximate
 127;Krynická 488;20;Krynická ;488/31;bez omezení;ne;50.126707;14.412882;Rooftop
 128;Nádražní 47;20;;;;ano;50.069146;14.406201;Rooftop
 129;Heydukova 897;20;Heydukova;897/13;bez omezení;ne;50.10374;14.474922;Rooftop
@@ -277,7 +275,6 @@ xid;addr;pocet_her;ulice;cp_co;cas;zrusena;Latitude;Longitude;Quality
 271;Kutnohorská 225;3;;;;ano;50.051434;14.567206;Rooftop
 272;Králodvorská 1085;3;;;;ano;50.088471;14.427496;Rooftop
 273;Klapkova 92;3;Klapkova;92/41;bez omezení;ne;50.126698;14.456627;Rooftop
-274;Muzeum - M nan;3;;;;ano;50.075538;14.4378;Approximate
 275;Evropská 695;3;;;;ano;50.100146;14.388309;Range interpolated
 276;Seifertova 826;3;;;;ano;50.083987;14.453102;Rooftop
 277;Bělehradská 630;3;;;;ano;50.074451;14.432936;Rooftop
@@ -329,7 +326,6 @@ xid;addr;pocet_her;ulice;cp_co;cas;zrusena;Latitude;Longitude;Quality
 323;Karmelitská 267;1;;;;ano;50.087495;14.403647;Rooftop
 324;Verneřická 559;1;;;;ano;50.123683;14.497158;Rooftop
 325;Bubenská 106;1;;;;ano;50.106137;14.435241;Rooftop
-326;Černý Most - M nan;1;;;;ano;50.075538;14.4378;Approximate
 327;Jugoslávská 481;1;;;;ano;50.075304;14.433039;Rooftop
 328;Václavské náměstí 802;1;;;;ano;50.080279;14.428436;Rooftop
 329;Vinohradská 120;1;;;;ano;50.077526;14.458188;Rooftop
